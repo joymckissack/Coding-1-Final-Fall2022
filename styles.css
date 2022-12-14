@@ -3,3 +3,31 @@ height: 50px;
 width: 50px;
 border-radius: 50%;
 }
+footer{
+    background-color: rgb(172, 156, 135);
+    height: fit-content;
+}
+.logo2{
+height: 350px;
+width: 350px;
+content: center;
+}
+.jungle{
+    height: 600px;
+    width: 600px;
+    border-radius: 50%;
+    margin-top:3%;
+}
+p{
+    width: 50%;
+    height: 310px;
+    content: center;
+}
+.card-text{
+    width: 250px;
+    height: 210px;
+}
+.card{
+    height: 500px;
+    margin-left: 14%;
+}
